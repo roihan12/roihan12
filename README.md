@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hi, I’m Roihan Sori.<br><br>I am a final-year Informatics Engineering Student with Strong background in Computer Science.  . Currently I'm focusing in  back end development. I usually use GO, Express.js , jwt for auth, MYSQL, MongoDB and Postgres<br><br>I am also interested in Image Processing, Machine Learning, or Deep Learning
-
+<!-- Hi, I’m Roihan Sori.<br><br>I am a final-year Informatics Engineering Student with Strong background in Computer Science.  . Currently I'm focusing in  back end development. I usually use GO, Express.js , jwt for auth, MYSQL, MongoDB and Postgres<br><br>I am also interested in Image Processing, Machine Learning, or Deep Learning
+ -->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/roihan_sori) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roihan-sori) 
