@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi, I’m Roihan Sori.<br><br>I am a final-year Informatics Engineering Student with Strong background in Computer Science. Currently I'm focusing in full stack development. I usually use GO, Javascript, PHP, Python , MYSQL, MongoDB and Postgres<br><br>I am also interested in Machine Learning or Deep Learning
+Hi, I’m Roihan Sori.<br><br>🚀 Final-year Informatics Engineering Student | Full Stack Developer | Passionate about Machine Learning and Deep Learning 🤖
+
+Highly motivated and forward-thinking student with a strong computer science background. Skilled in full-stack development, including GO, JavaScript, PHP, Python, MYSQL, MongoDB, and Postgres. Excited about exploring the world of Machine Learning and Deep Learning to create innovative solutions. Open to software engineering opportunities. Let's connect! #FullStackDeveloper #MachineLearning #DeepLearning #SoftwareEngineering #Python #Javascript #GO #PHP #MYSQL #MongoDB #Postgres #InformaticsEngineering #ComputerScience 🚀
 
 
 ## 🌐 Socials:
