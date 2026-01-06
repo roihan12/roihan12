@@ -17,7 +17,7 @@ currently exploring system design, SaaS, and data-heavy applications.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=roihan12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=roihan12&theme=dark&hide_border=false)<br/>
+![](http://streak-stats.demolab.com/?user=roihan12)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roihan12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
